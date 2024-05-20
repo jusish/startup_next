@@ -131,7 +131,7 @@ export default function Landing() {
                 </p>
                 <Link href="/">
                   <a href="#pablo" className="mt-8 font-bold text-blueGray-700">
-                    Check Notus NextJS!
+                    Check template NextJS!
                   </a>
                 </Link>
               </div>
