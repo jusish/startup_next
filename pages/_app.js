@@ -30,17 +30,12 @@ export default class MyApp extends App {
   componentDidMount() {
     let comment = document.createComment(`
 
-=========================================================
-* Notus NextJS - v1.1.0 based on Tailwind Starter Kit by Creative Tim
-=========================================================
+* Product Page: https://www.github.com/jusish/startup_next
+* Copyright 2021 jusish (https://www.github.com/jusish/startup_next)
+* Licensed under MIT (https://www.github.com/jusish/startup_next)
 
-* Product Page: https://www.creative-tim.com/product/notus-nextjs
-* Copyright 2021 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/notus-nextjs/blob/main/LICENSE.md)
 
-* Tailwind Starter Kit Page: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
-
-* Coded by Creative Tim
+* Coded by jusish
 
 =========================================================
 

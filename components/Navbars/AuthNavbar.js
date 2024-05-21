@@ -38,7 +38,7 @@ export default function Navbar(props) {
               <li className="flex items-center">
                 <a
                   className="flex items-center px-3 py-4 text-xs font-bold uppercase lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 lg:py-2"
-                  href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/overview/notus?ref=nnjs-auth-navbar"
+                  href="#1"
                 >
                   <i className="mr-2 text-lg lg:text-blueGray-200 text-blueGray-400 far fa-file-alt leading-lg" />{" "}
                   Read docs
@@ -52,7 +52,7 @@ export default function Navbar(props) {
               <li className="flex items-center">
                 <a
                   className="flex items-center px-3 py-4 text-xs font-bold uppercase lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 lg:py-2"
-                  href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdemos.creative-tim.com%2Fnotus-nextjs%2F"
+                  href="#1"
                   target="_blank"  rel="noreferrer"
                 >
                   <i className="text-lg lg:text-blueGray-200 text-blueGray-400 fab fa-facebook leading-lg " />
@@ -63,7 +63,7 @@ export default function Navbar(props) {
               <li className="flex items-center">
                 <a
                   className="flex items-center px-3 py-4 text-xs font-bold uppercase lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 lg:py-2"
-                  href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fnotus-nextjs%2F&text=Start%20your%20development%20with%20a%20Free%20Tailwind%20CSS%20and%20NextJS%20UI%20Kit%20and%20Admin.%20Let%20Notus%20NextJS%20amaze%20you%20with%20its%20cool%20features%20and%20build%20tools%20and%20get%20your%20project%20to%20a%20whole%20new%20level."
+                  href="#1"
                   target="_blank" rel="noreferrer"
                 >
                   <i className="text-lg lg:text-blueGray-200 text-blueGray-400 fab fa-twitter leading-lg " />
@@ -74,7 +74,7 @@ export default function Navbar(props) {
               <li className="flex items-center">
                 <a
                   className="flex items-center px-3 py-4 text-xs font-bold uppercase lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 lg:py-2"
-                  href="https://github.com/creativetimofficial/notus-nextjs?ref=nnjs-auth-navbar"
+                  href="#1"
                   target="_blank" rel="noreferrer"
                 >
                   <i className="text-lg lg:text-blueGray-200 text-blueGray-400 fab fa-github leading-lg " />
@@ -82,14 +82,7 @@ export default function Navbar(props) {
                 </a>
               </li>
 
-              <li className="flex items-center">
-                <button
-                  className="px-4 py-2 mb-3 ml-3 text-xs font-bold uppercase transition-all duration-150 ease-linear bg-white rounded shadow outline-none text-blueGray-700 active:bg-blueGray-50 hover:shadow-md focus:outline-none lg:mr-1 lg:mb-0"
-                  type="button"
-                >
-                  <i className="fas fa-arrow-alt-circle-down"></i> Download
-                </button>
-              </li>
+            
             </ul>
           </div>
         </div>

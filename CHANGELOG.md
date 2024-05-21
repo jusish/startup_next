@@ -20,17 +20,7 @@
 - `lg:bg-transparent` is not working anymore, so we've changed it with `lg:bg-opacity-0`
 - Since we've dropped the usage of custom CSS, and reverted to `Built-In CSS Support` from `NextJS`, we had to move our images inside the `public` folder, and our styles inside the `styles` folder
   - All the `require` images have been replaced by simple `/img/` strings
-- https://github.com/creativetimofficial/notus-angular/issues/4
-- https://github.com/creativetimofficial/notus-js/issues/4
-- https://github.com/creativetimofficial/notus-js/pull/5
-- https://github.com/creativetimofficial/notus-js/pull/6
-- https://github.com/creativetimofficial/notus-nextjs/issues/6
-- https://github.com/creativetimofficial/notus-nextjs/issues/7
-- https://github.com/creativetimofficial/notus-nextjs/issues/8
-- https://github.com/creativetimofficial/notus-react/issues/3
-- https://github.com/creativetimofficial/notus-svelte/issues/3
-- https://github.com/creativetimofficial/notus-svelte/issues/6
-- https://github.com/creativetimofficial/vue-notus/pull/4/
+- https://www.github.com/jusish/startup_next
 ### Major style changes
 - The upgrade of Tailwind CSS from version 1 to version 2, will cause multiple style changes, check them out on the official Tailwind CSS websites:
   - https://blog.tailwindcss.com/tailwindcss-v2
@@ -77,5 +67,5 @@ _On a clean install there may be some warnings from request, chokidar, fsevents 
 
 ## [1.0.0] 2020-09-29
 ### Original Release
-- Started project from [Tailwind Starter Kit by Creative Tim](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation?ref=nnjs-changelog)
-- Added design from Tailwind Starter Kit by Creative Tim
+- Started project from [Tailwind Starter Kit by jusish]
+- Added design from Tailwind Starter Kit by jusish
