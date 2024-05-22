@@ -22,7 +22,7 @@ export default function Index() {
                 <a
                   href="#1"
                   className="text-blueGray-600"
-                  target="_blank"
+                   
                   rel="noopener noreferrer"
                 >
                   Tailwind CSS
@@ -33,7 +33,7 @@ export default function Index() {
               <div className="mt-12">
                 <a
                   href="#1"
-                  target="_blank"
+                   
                   className="px-6 py-4 mb-1 mr-1 text-sm font-bold text-white uppercase transition-all duration-150 ease-linear rounded shadow outline-none get-started focus:outline-none bg-blueGray-400 active:bg-blueGray-500 hover:shadow-lg"
                 >
                   Get started
@@ -41,7 +41,7 @@ export default function Index() {
                 <a
                   href="#1"
                   className="px-6 py-4 mb-1 ml-1 mr-1 text-sm font-bold text-white uppercase rounded shadow outline-none github-star focus:outline-none bg-blueGray-700 active:bg-blueGray-600 hover:shadow-lg"
-                  target="_blank"
+                   
                 >
                   Github Star
                 </a>
@@ -217,7 +217,7 @@ export default function Index() {
               </div>
               <a
                 href="#1"
-                target="_blank"
+                 
                 className="font-bold transition-all duration-150 ease-linear text-blueGray-700 hover:text-blueGray-500"
               >
                 View All{" "}
@@ -267,7 +267,7 @@ export default function Index() {
                 <div className="w-full px-4 my-4 lg:w-6/12">
                   <a
                     href="#1"
-                    target="_blank"
+                     
                   >
                     <div className="p-8 text-center bg-red-600 rounded-lg shadow-lg">
                       <img
@@ -282,7 +282,7 @@ export default function Index() {
                   </a>
                   <a
                     href="#1"
-                    target="_blank"
+                     
                   >
                     <div className="p-8 mt-8 text-center rounded-lg shadow-lg bg-lightBlue-500">
                       <img
@@ -297,7 +297,7 @@ export default function Index() {
                   </a>
                   <a
                     href="#1"
-                    target="_blank"
+                     
                   >
                     <div className="p-8 mt-8 text-center rounded-lg shadow-lg bg-blueGray-700">
                       <img
@@ -314,7 +314,7 @@ export default function Index() {
                 <div className="w-full px-4 my-4 lg:w-6/12 lg:mt-16">
                   <a
                     href="#1"
-                    target="_blank"
+                     
                   >
                     <div className="p-8 text-center bg-yellow-500 rounded-lg shadow-lg">
                       <img
@@ -329,7 +329,7 @@ export default function Index() {
                   </a>
                   <a
                     href="#1"
-                    target="_blank"
+                     
                   >
                     <div className="p-8 mt-8 text-center bg-red-700 rounded-lg shadow-lg">
                       <img
@@ -344,7 +344,7 @@ export default function Index() {
                   </a>
                   <a
                     href="#1"
-                    target="_blank"
+                     
                   >
                     <div className="p-8 mt-8 text-center rounded-lg shadow-lg bg-emerald-500">
                       <img
@@ -405,7 +405,7 @@ export default function Index() {
               </div>
               <a
                 href="#1"
-                target="_blank"
+                 
                 className="font-bold transition-all duration-150 ease-linear text-blueGray-700 hover:text-blueGray-500"
               >
                 View all{" "}
@@ -574,7 +574,7 @@ export default function Index() {
                 <a
                   href="#1"
                   className="text-blueGray-300"
-                  target="_blank"
+                   
                 >
                   Tailwind CSS
                 </a>{" "}
@@ -588,7 +588,7 @@ export default function Index() {
               </p>
               <a
                 href="#1"
-                target="_blank"
+                 
                 className="inline-block px-6 py-4 mt-4 mb-1 mr-1 text-sm font-bold text-white uppercase rounded shadow outline-none github-star focus:outline-none bg-blueGray-700 active:bg-blueGray-600 hover:shadow-lg"
               >
                 Github Star
@@ -642,14 +642,14 @@ export default function Index() {
               <div className="flex flex-col mt-10 sm:block">
                 <a
                   href="#1"
-                  target="_blank"
+                   
                   className="px-6 py-4 mb-2 mr-1 text-sm font-bold text-white uppercase transition-all duration-150 ease-linear rounded shadow outline-none get-started focus:outline-none bg-blueGray-400 active:bg-blueGray-500 hover:shadow-lg"
                 >
                   Get started
                 </a>
                 <a
                   href="#1"
-                  target="_blank"
+                   
                   className="px-6 py-4 mb-1 mr-1 text-sm font-bold text-white uppercase rounded shadow outline-none github-star sm:ml-1 focus:outline-none bg-blueGray-700 active:bg-blueGray-600 hover:shadow-lg"
                 >
                   <i className="mr-1 text-lg fab fa-github"></i>

@@ -53,7 +53,7 @@ export default function Navbar(props) {
                 <a
                   className="flex items-center px-3 py-4 text-xs font-bold uppercase hover:text-blueGray-500 text-blueGray-700 lg:py-2"
                   href="#1"
-                  target="_blank" rel="noreferrer"
+                    rel="noreferrer"
                 >
                   <i className="text-lg text-blueGray-400 fab fa-facebook leading-lg " />
                   <span className="inline-block ml-2 lg:hidden">Share</span>
@@ -64,7 +64,7 @@ export default function Navbar(props) {
                 <a
                   className="flex items-center px-3 py-4 text-xs font-bold uppercase hover:text-blueGray-500 text-blueGray-700 lg:py-2"
                   href="#1"
-                  target="_blank" rel="noreferrer"
+                    rel="noreferrer"
                 >
                   <i className="text-lg text-blueGray-400 fab fa-twitter leading-lg " />
                   <span className="inline-block ml-2 lg:hidden">Tweet</span>
@@ -75,7 +75,7 @@ export default function Navbar(props) {
                 <a
                   className="flex items-center px-3 py-4 text-xs font-bold uppercase hover:text-blueGray-500 text-blueGray-700 lg:py-2"
                   href="#1"
-                  target="_blank"  rel="noreferrer"
+                     rel="noreferrer"
                 >
                   <i className="text-lg text-blueGray-400 fab fa-github leading-lg " />
                   <span className="inline-block ml-2 lg:hidden">Star</span>

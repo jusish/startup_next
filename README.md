@@ -1,4 +1,4 @@
-# Template next <a href="" target="_blank">![Tweet]</a>
+# Template next <a href=""  >![Tweet]</a>
 
 ![version](https://img.shields.io/badge/version-1.1.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
